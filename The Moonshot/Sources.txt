@@ -1,0 +1,7 @@
+milky-way: https://pixabay.com/de/photos/milchstra%C3%9Fe-sterne-nacht-472971/
+helix-nebula: https://pixabay.com/de/photos/helixnebel-ngc-7293-11156/
+earth: https://pixabay.com/de/illustrations/erde-meteorit-raum-apokalypse-8112953/
+asteroid: https://pixabay.com/de/illustrations/asteroid-meteorit-land-planet-raum-6096994/
+space-travel.png: https://pixabay.com/de/vectors/raumfahrt-rakete-bullauge-fenster-1784461/
+lightsaber: https://pixabay.com/de/vectors/lichtschwert-star-wars-george-lucas-1980163/
+meteor-7982259_960_720.png: https://pixabay.com/de/illustrations/meteor-meteorit-asteroid-7982259/
