@@ -12,7 +12,7 @@ In this program you can paint with 4 different colors.
 | mose left klick| draw
 | b | color blue
 | r | color red
-| s | color black
+| s/b | color black
 | w | color white
 | f | fish
 | v/s | square
