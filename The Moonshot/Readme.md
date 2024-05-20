@@ -10,4 +10,6 @@ To start de game you havt to klick on the green flag.
 | Key | description |
 | --- | --- |
 | a | left
+| ◀️ | left
 | d | right
+| ▶️ | right
