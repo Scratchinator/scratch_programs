@@ -1,0 +1,11 @@
+shrimp: https://pixabay.com/de/illustrations/garnele-krebstier-meer-unterwasser-6598562/
+
+frontfish: https://pixabay.com/de/vectors/anglerfisch-fische-tier-marine-6324260/
+
+hai: https://pixabay.com/de/vectors/ai-generiert-hai-schwimmen-8157222/
+
+octopus: https://pixabay.com/de/vectors/krake-lineart-blekksprutte-4172877/
+
+octopus-5943970: https://pixabay.com/de/vectors/krake-tier-tintenfisch-ozean-meer-5943970/
+
+spern-whale: https://pixabay.com/de/vectors/pottwal-marine-ozean-tier-natur-7695848/
