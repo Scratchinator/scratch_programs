@@ -6,7 +6,7 @@ This is my repository for my scratch programs.
 | --- | --- |
 | Car_parkour | a single player car parkour game
 | Car_racing | a single player car racing game 
-| Deep_Ocean | a single player Ocean game
+| Deep_sea | a single player Deep sea game
 | Football | a game for 2 players
 | Litle_bomber | a single player 1v1 game
 | Paint | a prokram to paint
