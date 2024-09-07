@@ -12,7 +12,6 @@ This is my repository for my scratch programs.
 | Litle_bomber | a single player 1v1 game
 | Paint | a prokram to paint
 | Shooter | a singleplayer shooter
-| The_Hole_Game | a singleplayer game where you control a marble
 | The_Moonshot | a single player shooting game
 
 
