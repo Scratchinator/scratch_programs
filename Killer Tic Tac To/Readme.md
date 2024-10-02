@@ -26,5 +26,4 @@ If there is a winner in a field, the field belongs to the person who won it and 
 
 | Key | description |
 | --- | --- |
-| x | cross
-| o | cirkle
+| left mouse button | X and O
